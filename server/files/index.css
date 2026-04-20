@@ -1,7 +1,6 @@
 @import url(layout.css);
-#trying to commit something
-body {
-  background-image: url('images/background.jpg');
+#trying to commit something #trying to commit something else body {
+  background-image: url("images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
