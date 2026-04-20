@@ -1,5 +1,5 @@
 function setMovie(movie) {
-
+//suka blyat
   for (const element of document.forms[0].elements) {
     const name = element.id;
     const value = movie[name];
